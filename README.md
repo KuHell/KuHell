@@ -13,6 +13,8 @@
     <br/>
 </div>
 
+<img align="right" alt="GIF" src="https://github.com/ugleiton/ugleiton/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 ## LANGUAGES & TOOLS
 <p align="left">
 <a href="https://www.w3schools.com/javscript/" target="_blank">
