@@ -2,10 +2,20 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KuHell&fontSize=70&animation=twinkling)    
 
+<img align="center" alt="GIF"  src="https://denemenlazim.net/wp-content/uploads/2019/11/rick-and-morty_4-sezon_1.gif" width="408" height="318">
+
+<div style="display: inline_block">
+
+## LANGUAGES & TOOLS
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
 </div>
 
-
-
+</div>
 
 <div align="center">
     <a href="#"><img alt="KuHell's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KuHell&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
@@ -13,21 +23,7 @@
     <br/>
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/ugleiton/ugleiton/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-## LANGUAGES & TOOLS
-<p align="left">
-<a href="https://www.w3schools.com/javscript/" target="_blank">
-  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javscript" width="40" height="40"/>
-</a> 
-<a href="https://www.w3schools.com/javscript/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="javscript" width="40" height="40"/>
-</a> 
-<a href="https://www.w3schools.com/javscript/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
-</a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</p>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 
