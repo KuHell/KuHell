@@ -27,6 +27,6 @@
 </div> -->
 
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+<!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"> -->
 
 
