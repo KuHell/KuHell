@@ -1,6 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KuHell&fontSize=70&animation=twinkling)    
 <!-- <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KuHell&fontSize=70&animation=twinkling)    
+
 
 <img align="center" alt="GIF"  src="https://denemenlazim.net/wp-content/uploads/2019/11/rick-and-morty_4-sezon_1.gif" width="408" height="318">
 
