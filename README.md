@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KuHell&fontSize=70&animation=twinkling)    
+
 
 <div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KuHell&fontSize=70&animation=twinkling)    
 <div style="display: inline_block align: center">
 
 ## LANGUAGES & TOOLS
